@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="700" src="https://www.polytechnique-insights.com/wp-content/uploads/2022/11/adobestock_402438380-1-1537x600.jpeg"  />
+  <img height="500" src="https://www.polytechnique-insights.com/wp-content/uploads/2022/11/adobestock_402438380-1-1537x600.jpeg"  />
 </div>
 
 ###
