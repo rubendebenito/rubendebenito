@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">¡Hola! 👋, mi nombre es Rubén y soy un desarrollador de software fullstack con experiencia en una variedad de tecnologías y plataformas. Actualmente, trabajo en Santander Digital Services, donde utilizo Angular y microfronts para el desarrollo de front-end, Spring para el back-end, y herramientas como OpenShift y Jenkins en la parte DevOps.</p>
+<p align="left">¡Hola! 👋, mi nombre es Rubén y soy un desarrollador de software fullstack con experiencia en una variedad de tecnologías y plataformas. Actualmente, trabajo en Santander T%O, donde utilizo Angular y microfronts para el desarrollo de front-end, Spring para el back-end, y herramientas como OpenShift y Jenkins en la parte DevOps.</p>
 
 ###
 
