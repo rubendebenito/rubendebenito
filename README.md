@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📍Fullstack developer based in Spain. <br>💻 Currently working at Santander Digital Services.</p>
+<p align="left">📍Fullstack developer based in Spain. <br>💻 Currently working at Santander T&O.</p>
 
 ###
 
